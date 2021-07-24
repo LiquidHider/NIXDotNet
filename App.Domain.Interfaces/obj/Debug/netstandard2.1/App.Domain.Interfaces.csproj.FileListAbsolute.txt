@@ -7,3 +7,6 @@ D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.1\App.
 D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.1\App.Domain.Interfaces.csproj.CoreCompileInputs.cache
 D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.1\App.Domain.Interfaces.dll
 D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.1\App.Domain.Interfaces.pdb
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\bin\Debug\netstandard2.1\App.Domain.Core.dll
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\bin\Debug\netstandard2.1\App.Domain.Core.pdb
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.1\App.Domain.Interfaces.csproj.CopyComplete
