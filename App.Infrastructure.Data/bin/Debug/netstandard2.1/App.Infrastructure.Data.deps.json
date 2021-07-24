@@ -22,6 +22,9 @@
         }
       },
       "App.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "App.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "App.Domain.Interfaces.dll": {}
         }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8Kgc2+qlBa7yA7wsJ6FfjKc0OAc14abgXyr3IMXUZ6x1wq4eb4tF0l43YpCiBePcTHlWe/Mf/FIgru7PH1liQ==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Projects\\NIXDotNet\\App.Web\\App.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DHider\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

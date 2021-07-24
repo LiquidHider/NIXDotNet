@@ -12,3 +12,5 @@ D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netstandard2.
 D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netstandard2.1\App.Infrastructure.Business.csproj.CopyComplete
 D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netstandard2.1\App.Infrastructure.Business.dll
 D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netstandard2.1\App.Infrastructure.Business.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netstandard2.1\App.Services.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netstandard2.1\App.Services.Interfaces.pdb
