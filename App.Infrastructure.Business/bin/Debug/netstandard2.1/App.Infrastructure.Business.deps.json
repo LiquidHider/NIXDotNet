@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "App.Infrastructure.Business/1.0.0": {
+        "dependencies": {
+          "App.Domain.Core": "1.0.0",
+          "App.Domain.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "App.Infrastructure.Business.dll": {}
+        }
+      },
+      "App.Domain.Core/1.0.0": {
+        "runtime": {
+          "App.Domain.Core.dll": {}
+        }
+      },
+      "App.Domain.Interfaces/1.0.0": {
+        "runtime": {
+          "App.Domain.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Infrastructure.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

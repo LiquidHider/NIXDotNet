@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rlf1eeuwxRBB6FmUrp+9iV0G/aJ7PJyAMm+zcZWOp9/Dudh5oNNJ5/9wEeJkFpy0R7u5Zp1R2rAqvSHEcRpNFw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Projects\\NIXDotNet\\App.Services.Interfaces\\App.Services.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DHider\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DHider\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

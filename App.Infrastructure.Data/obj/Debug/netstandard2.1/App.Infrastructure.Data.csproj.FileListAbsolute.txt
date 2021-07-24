@@ -1,0 +1,14 @@
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Infrastructure.Data.deps.json
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Infrastructure.Data.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Infrastructure.Data.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Domain.Core.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Domain.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Domain.Core.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\bin\Debug\netstandard2.1\App.Domain.Interfaces.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.csprojAssemblyReference.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.AssemblyInfo.cs
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.csproj.CopyComplete
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Data\obj\Debug\netstandard2.1\App.Infrastructure.Data.pdb

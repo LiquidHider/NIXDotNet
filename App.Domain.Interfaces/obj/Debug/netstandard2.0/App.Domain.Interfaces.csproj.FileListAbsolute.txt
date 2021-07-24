@@ -1,0 +1,9 @@
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\bin\Debug\netstandard2.0\App.Domain.Interfaces.deps.json
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\bin\Debug\netstandard2.0\App.Domain.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\bin\Debug\netstandard2.0\App.Domain.Interfaces.pdb
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.csprojAssemblyReference.cache
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.AssemblyInfoInputs.cache
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.AssemblyInfo.cs
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Domain.Interfaces\obj\Debug\netstandard2.0\App.Domain.Interfaces.pdb

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "App.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/App.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../App.Domain.Core/App.Domain.Core.csproj",
+      "msbuildProject": "../App.Domain.Core/App.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "App.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DHider\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Visual Projects\\NIXDotNet\\App.Domain.Interfaces\\App.Domain.Interfaces.csproj",
+      "projectName": "App.Domain.Interfaces",
+      "projectPath": "D:\\Visual Projects\\NIXDotNet\\App.Domain.Interfaces\\App.Domain.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\DHider\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Projects\\NIXDotNet\\App.Domain.Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DHider\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "D:\\Visual Projects\\NIXDotNet\\App.Domain.Core\\App.Domain.Core.csproj": {
+              "projectPath": "D:\\Visual Projects\\NIXDotNet\\App.Domain.Core\\App.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

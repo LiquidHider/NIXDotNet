@@ -1,0 +1,9 @@
+D:\Visual Projects\NIXDotNet\App.Domain.Core\bin\Debug\netstandard2.1\App.Domain.Core.deps.json
+D:\Visual Projects\NIXDotNet\App.Domain.Core\bin\Debug\netstandard2.1\App.Domain.Core.dll
+D:\Visual Projects\NIXDotNet\App.Domain.Core\bin\Debug\netstandard2.1\App.Domain.Core.pdb
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.AssemblyInfoInputs.cache
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.AssemblyInfo.cs
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.dll
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.pdb
+D:\Visual Projects\NIXDotNet\App.Domain.Core\obj\Debug\netstandard2.1\App.Domain.Core.csprojAssemblyReference.cache
