@@ -4,13 +4,12 @@ using System.Text;
 
 namespace App.Domain.Core
 {
-    class Moderator : IUser, ICanEditProducts
+    public class Moderator : User, ICanEditProducts
     {
-        public Guid ID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Login { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Password { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public DateTime RegistrationDate { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public Moderator(string login, string password) : base(login, password)
+        {
 
+        }
         public void AddProduct(IProduct item)
         {
             throw new NotImplementedException();

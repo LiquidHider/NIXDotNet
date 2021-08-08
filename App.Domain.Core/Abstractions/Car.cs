@@ -5,13 +5,13 @@ namespace App.Domain.Core
 {
     public abstract class Car : IProduct, IColored
     {
-        public Guid ID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Name { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public decimal Price { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public int DiscountPercent { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string SerialNumber { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public Guid ID { get; protected set; }
+        public string Name { get; protected set; }
+        public decimal Price { get; protected set; }
+        public int DiscountPercent { get; protected set; }
+        public string SerialNumber { get; protected set; }
         public int ReleaseYear { get; set; }
-        public Color BodyColor { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public Color BodyColor { get; protected set; }
         public int BodyLength { get; set; }
         public int BodyWidth { get; set; }
         public int BodyHeight { get; set; }
@@ -29,5 +29,12 @@ namespace App.Domain.Core
         public Headlights Headlights { get; set; }
         public WindowsSet Windows { get; set; }
         public List<CarAccessory> Accessories { get; set; }
+        public Car(string name,decimal price, string serial) 
+        {
+            ID = Guid.NewGuid();
+            Name = name;
+            Price = price;
+            SerialNumber = serial;
+        }
     }
 }

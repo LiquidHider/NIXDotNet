@@ -1,0 +1,62 @@
+[
+  {
+    "Email": "absolutelyVasya@gmel.com",
+    "LastName": "None",
+    "FirstName": "None",
+    "PhoneNumber": "\u002B38099323453434",
+    "ID": "a0698f56-0cf1-48f6-a3d7-4a0bc9319f52",
+    "Login": "Vasya228",
+    "Password": "VasyaCool1337",
+    "RegistrationDate": "2021-08-09T01:54:07.8576303+03:00"
+  },
+  {
+    "Email": "None",
+    "LastName": "Pupkin",
+    "FirstName": "NeVasya",
+    "PhoneNumber": "None",
+    "ID": "63bd6fb4-5f7a-4b05-982e-10e4ceb57d50",
+    "Login": "NeVasya228",
+    "Password": "VasyaNeCool1337",
+    "RegistrationDate": "2021-08-09T01:54:07.8594533+03:00"
+  },
+  {
+    "Email": "None",
+    "LastName": "None",
+    "FirstName": "Albert",
+    "PhoneNumber": "\u002B38099566234476",
+    "ID": "4c754a2c-2e61-4f7a-8c0f-d92e472fbd44",
+    "Login": "Doodie72",
+    "Password": "7300",
+    "RegistrationDate": "2021-08-09T01:54:07.8594573+03:00"
+  },
+  {
+    "Email": "None",
+    "LastName": "Solnetsov",
+    "FirstName": "None",
+    "PhoneNumber": "None",
+    "ID": "290063f1-73d9-4ff5-96dc-630ec3b11c4d",
+    "Login": "SayonaraBoy",
+    "Password": "ZX_Spectrum",
+    "RegistrationDate": "2021-08-09T01:54:07.8594578+03:00"
+  },
+  {
+    "Email": "None",
+    "LastName": "None",
+    "FirstName": "Fred",
+    "PhoneNumber": "None",
+    "ID": "f8a56ace-a94c-4338-98a6-9216a8f8626a",
+    "Login": "coldFredericco",
+    "Password": "notthatcoldactually",
+    "RegistrationDate": "2021-08-09T01:54:07.8594582+03:00"
+  },
+  {
+    "Email": "sunnyGirl@gmel.com",
+    "LastName": "None",
+    "FirstName": "None",
+    "PhoneNumber": "None",
+    "ID": "70b78c88-de17-4595-9ea9-9fe4adbaab96",
+    "Login": "sonnyC",
+    "Password": "sonicK",
+    "RegistrationDate": "2021-08-09T01:54:07.859465+03:00"
+  }
+]

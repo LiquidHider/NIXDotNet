@@ -4,10 +4,10 @@ namespace App.Domain.Core
 {
     public interface IProduct
     {
-        public Guid ID { get; set; }
-        public string Name { get; set; }
-        public decimal Price { get; set; }
-        public int DiscountPercent { get; set; }
-        public string SerialNumber { get; set; }
+        public Guid ID { get; }
+        public string Name { get; }
+        public decimal Price { get; }
+        public int DiscountPercent { get; }
+        public string SerialNumber { get; }
     }
 }
