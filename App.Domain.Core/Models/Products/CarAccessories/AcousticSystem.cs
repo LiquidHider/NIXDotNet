@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace App.Domain.Core.Models.Products.CarAccessories
+namespace App.Domain.Core
 {
     public class AcousticSystem : IPartnerProduct
     {

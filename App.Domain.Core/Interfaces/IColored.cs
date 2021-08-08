@@ -6,6 +6,6 @@ namespace App.Domain.Core
 {
     public interface IColored
     {
-        Color BodyColor { get; set; }
+        Color BodyColor { get; }
     }
 }

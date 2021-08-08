@@ -1,0 +1,16 @@
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Infrastructure.Business.deps.json
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Infrastructure.Business.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Infrastructure.Business.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Domain.Core.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Domain.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Services.Interfaces.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Domain.Core.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Domain.Interfaces.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\bin\Debug\netcoreapp3.1\App.Services.Interfaces.pdb
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.csprojAssemblyReference.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.AssemblyInfoInputs.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.AssemblyInfo.cs
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.csproj.CoreCompileInputs.cache
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.csproj.CopyComplete
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.dll
+D:\Visual Projects\NIXDotNet\App.Infrastructure.Business\obj\Debug\netcoreapp3.1\App.Infrastructure.Business.pdb

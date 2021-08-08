@@ -4,7 +4,11 @@ using System.Text;
 
 namespace App.Domain.Core
 {
-    class Hatchback : Car
+   public class Hatchback : Car
     {
+        public Hatchback(string name, decimal price, string serial) : base(name, price, serial)
+        {
+
+        }
     }
 }

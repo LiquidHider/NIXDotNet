@@ -10,8 +10,7 @@ namespace App.Domain.Interfaces
         void Create(T item);
         void Update(T item);
         void Delete(int id);
-        void Save();
         T GetById(int id);
-        IEnumerable<T> GetList();
+        IEnumerable<T> Get();
     }
 }
