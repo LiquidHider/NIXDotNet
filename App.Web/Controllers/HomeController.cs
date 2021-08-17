@@ -22,7 +22,14 @@ namespace App.Web.Controllers
         {
             return View();
         }
-
+        public IActionResult Registration() 
+        {
+            return View();
+        }
+        public IActionResult ThankYou()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

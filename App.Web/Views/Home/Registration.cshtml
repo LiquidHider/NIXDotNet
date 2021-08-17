@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Register Porsche ID";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] | Porsche </title>
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.css" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm border-bottom shadow  mb-3 ">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="/img/logo/logo1.png" width="130" height="70">
+                </a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1 class="display-4 mb-lg-5">Register Porsche ID</h1>
+        <form class="form" id="registerForm" role="form">
+            <div class="col-md-4 mb-3">
+                <label for="name" class="form-label">Username</label>
+                <input type="text" class="form-control" name="name" required>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="text" class="form-control" name="email" required>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label for="VlastName" class="form-label">Last name</label>
+                <input type="text" class="form-control" name="lname">
+            </div>
+            <div class="col-md-4 mb-3">
+                <label for="fname" class="form-label">First name</label>
+                <input type="text" class="form-control" name="fname">
+            </div>
+            <div class="col-md-4 mb-3">
+                <label for="pumber" class="form-label">Phone number</label>
+                <input type="text" class="form-control" name="pnumber" required>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="text" class="form-control" name="password" id="password" required>
+            </div>
+            <div class="col-md-4 mb-lg-5">
+                <label for="Cpassword" class="form-label">Confirm password</label>
+                <input type="text" class="form-control" name="Cpassword" id="Cpassword" required>
+            </div>
+            <button type="submit" class="btn btn-secondary mb-lg-5" name="submit-btn" asp-area="" asp-controller="Home" asp-action="ThankYou">
+                Register
+            </button>
+        </form>
+    </div>
+    <script src="/lib/jquery/jquery.js"></script>
+    <script src="/js/validation.js"></script>
+    <script src="/lib/jquery-validate/jquery-validate.js"></script>
+    <script src="/lib/bootstrap/dist/bootstrap.js"></script>
+    <script src = "/js/RegValidation.js"></script>
+    <script src="/js/site.js" asp-append-version="true"></script>
+
+
+</body>
+</html>
