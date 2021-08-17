@@ -35,4 +35,6 @@ D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\App.Web.dll
 D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\App.Web.pdb
 D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\App.Web.genruntimeconfig.cache
 D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\App.Web.csproj.CopyComplete
-D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Configurator.cshtml.g.cs
+D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+D:\Visual Projects\NIXDotNet\App.Web\bin\Debug\netcoreapp3.1\libman.json
+D:\Visual Projects\NIXDotNet\App.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\ThankYou.cshtml.g.cs

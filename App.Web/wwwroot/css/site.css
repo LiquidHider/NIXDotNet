@@ -17,13 +17,21 @@ a {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
+.mycontainer {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
-
+.logoCenter
+{
+    text-align: center;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -63,9 +71,11 @@ body {
   margin-bottom: 60px;
 }
 .footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
+  overflow: auto;
   line-height: 60px; /* Vertically center the text there */
+
 }
